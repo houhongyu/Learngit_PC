@@ -6,4 +6,5 @@ $ cd learngit
 $ pwd
 
 $ git init
+$ git init
  

@@ -7,3 +7,5 @@ $ pwd
 
 $ git init
 $ git remote add origin git@github.com:houhongyu/Learngit_pc.git
+
+$ git add file
